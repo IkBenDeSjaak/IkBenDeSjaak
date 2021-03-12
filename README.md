@@ -3,6 +3,7 @@
 🖥️ [ikbendesjaak.nl](https://ikbendesjaak.nl)
 
 <!-- ![Sjaak's GitHub stats](https://github-readme-stats.vercel.app/api?username=IkBenDeSjaak) -->
+![Sjaak's GitHub stats](https://github-readme-stats.vercel.app/api?username=IkBenDeSjaak&count_private=true)
 
 <!--
 **IkBenDeSjaak/IkBenDeSjaak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
