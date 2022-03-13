@@ -1,11 +1,12 @@
 ### Hi there, I'm Sjaak 👋
 
+I am a web development student from the Netherlands!
+
 🖥️ [ikbendesjaak.nl](https://ikbendesjaak.nl)
 
 <!-- ![Sjaak's GitHub stats](https://github-readme-stats.vercel.app/api?username=IkBenDeSjaak&count_private=true) -->
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IkBenDeSjaak&layout=compact&exclude_repo=OOSE)
-
 
 <!--
 **IkBenDeSjaak/IkBenDeSjaak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
